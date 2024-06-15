@@ -1,4 +1,3 @@
-import os
 from data import Data
 
 class Highscore:
